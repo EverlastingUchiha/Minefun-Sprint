@@ -5,6 +5,7 @@
 // @description  Hold W to sprint automatically
 // @author       Itz_Krishna AKA Everlasting AKA EverlastingUchiha
 // @match        *://*.minefun.io/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=minefun.io
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
